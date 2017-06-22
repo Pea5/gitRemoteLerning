@@ -1,2 +1,3 @@
 1. Zaczynamy - pierwszy commit
 2. Pierdolowaty commit nic nie wnosz¹cy do sprawy
+3. Ta linijka zostanie omylkowo wrzucona do rego i postaramy sie to obejsc
