@@ -1,3 +1,5 @@
 1. Zaczynamy - pierwszy commit
 2. Pierdolowaty commit nic nie wnosz¹cy do sprawy
 3. Ta linijka zostanie omylkowo wrzucona do rego i postaramy sie to obejsc
+4. To jest bardzo wazny commit
+5. Ammended commit test
